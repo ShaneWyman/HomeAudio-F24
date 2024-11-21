@@ -1,0 +1,257 @@
+(footprint "R_Combo"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Resistor SMD 1206, hand soldering")
+	(tags "resistor 1206")
+	(property "Reference" "REF**"
+		(at 0 -1.85 0)
+		(layer "F.SilkS")
+		(uuid "1eed74a2-05db-4f8a-b27b-1f284a329848")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "100"
+		(at 0 1.9 0)
+		(layer "F.Fab")
+		(uuid "a0793591-c02f-4181-bad6-4abf4e264270")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d0ee53ab-e58e-48fa-89f7-bb52e04ff33a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "db5c164b-778c-4dce-9578-9bdad0be39ab")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "12962f40-ea0f-406a-8342-a48a788dbf96")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -6.35 -2.54)
+		(end -6.35 2.54)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a3359c21-5b93-4a58-85d1-73b6730f5c98")
+	)
+	(fp_line
+		(start -6.35 2.54)
+		(end 6.35 2.54)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "31c88157-c2f0-46f1-b1b5-d91ef34de844")
+	)
+	(fp_line
+		(start -1 -1.07)
+		(end 1 -1.07)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d71442b1-c204-4178-8037-a178d41f87bd")
+	)
+	(fp_line
+		(start 1 1.07)
+		(end -1 1.07)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f9c521af-38f3-4ff1-ba4b-ac1752617c64")
+	)
+	(fp_line
+		(start 6.35 -2.54)
+		(end -6.35 -2.54)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6c3d8ed6-9686-41db-b64e-ad39f66ed66f")
+	)
+	(fp_line
+		(start 6.35 2.54)
+		(end 6.35 -2.54)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b52af52c-b470-45f9-bf3e-6ab6c427952d")
+	)
+	(fp_line
+		(start -3.25 -1.11)
+		(end -3.25 1.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f1c0014e-3a6d-42a1-80d3-b029a50b49e4")
+	)
+	(fp_line
+		(start -3.25 -1.11)
+		(end 3.25 -1.11)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "39dcfb5f-826f-4725-8a05-e755392db59f")
+	)
+	(fp_line
+		(start 3.25 1.1)
+		(end -3.25 1.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b413b8d4-a928-46f1-87ca-42c63e28dcbd")
+	)
+	(fp_line
+		(start 3.25 1.1)
+		(end 3.25 -1.11)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8fc4bb90-74df-446a-9c31-442b3213907b")
+	)
+	(fp_line
+		(start -1.6 -0.8)
+		(end 1.6 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cd70001a-ed85-4085-a717-08e332bf015b")
+	)
+	(fp_line
+		(start -1.6 0.8)
+		(end -1.6 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e0e15a7b-253b-452b-9ce0-fca114a4080a")
+	)
+	(fp_line
+		(start 1.6 -0.8)
+		(end 1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "314aa1a6-eb79-441b-9cdd-fb6a93031dff")
+	)
+	(fp_line
+		(start 1.6 0.8)
+		(end -1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "85c40200-c2cb-4c2a-9b0c-f37af54e90f3")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "d2e5e2ef-8f73-4b8e-b003-7ce3d3ce3ca4")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.105)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at -4.445 0)
+		(size 2 3)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "98ccc88c-5537-4b39-b1c1-2cf7d18af90c")
+	)
+	(pad "1" smd rect
+		(at -2 0)
+		(size 2 1.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d8208c7c-dfa6-4046-9be2-c5c3c43cd32e")
+	)
+	(pad "2" smd rect
+		(at 2 0)
+		(size 2 1.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "686826e3-a5d8-4af0-a2a0-e99359d14a8f")
+	)
+	(pad "2" thru_hole oval
+		(at 4.445 0)
+		(size 2 3)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "079fc478-a809-4931-ada1-9b4dc02ad941")
+	)
+	(model "${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.wrl"
+		(offset
+			(xyz -4.5 0 0)
+		)
+		(scale
+			(xyz 0.9 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

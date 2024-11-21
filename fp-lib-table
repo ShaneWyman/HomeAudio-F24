@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ColorOrgan")(type "KiCad")(uri "${KIPRJMOD}/ColorOrgan.pretty")(options "")(descr ""))
+)
