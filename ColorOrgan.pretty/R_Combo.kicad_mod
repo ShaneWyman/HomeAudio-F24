@@ -18,7 +18,7 @@
 	)
 	(property "Value" "100"
 		(at 0 1.9 0)
-		(layer "F.Fab")
+		(layer "F.SilkS")
 		(uuid "a0793591-c02f-4181-bad6-4abf4e264270")
 		(effects
 			(font
