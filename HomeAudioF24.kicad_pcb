@@ -29550,7 +29550,7 @@
 		(uuid "3ba89f16-230a-4dae-9d0a-e7ff17204f1e")
 	)
 	(gr_text "Pin 3"
-		(at 19.5 80.5 0)
+		(at 19.75 82.75 0)
 		(layer "F.SilkS")
 		(uuid "00c96342-e68c-4b10-bc4e-094d0e440927")
 		(effects
@@ -29626,7 +29626,7 @@
 		)
 	)
 	(gr_text "Pin 8"
-		(at 19.5 83 0)
+		(at 19.75 80 0)
 		(layer "F.SilkS")
 		(uuid "45d93e3a-f1b7-4933-a8a1-9436b44b112b")
 		(effects
